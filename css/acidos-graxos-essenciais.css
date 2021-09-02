@@ -24,6 +24,9 @@ html.bebida-alcool{
   position:relative;
 }
 
+.ordered-list{
+  margin-left:-50%;
+}
 /* html.no-js{
   height:0px;
   width:0px;
@@ -402,19 +405,6 @@ div.navitem.dropdown-menu:hover ul{
 
 div.navitem.dropdown-menu ul li:hover{
   transform:scale(1.5);
-}
-
-div.navitem.dropdown-menu ul li{
-  margin:0;
-  padding:0;
-  width:auto;
-  overflow:visible;
-}
-div.navitem.dropdown-menu ul li a{
-  font-size:35%;
-  width:auto;
-  margin:0;
-  padding:0;
 }
 
 article h3{

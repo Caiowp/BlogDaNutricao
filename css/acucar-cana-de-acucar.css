@@ -24,10 +24,9 @@ html.bebida-alcool{
   position:relative;
 }
 
-/* html.no-js{
-  height:0px;
-  width:0px;
-} */
+#tabela-acucar{
+  width:30%;
+}
 
 h1.main-page-header{
   visibility:hidden;
@@ -402,19 +401,6 @@ div.navitem.dropdown-menu:hover ul{
 
 div.navitem.dropdown-menu ul li:hover{
   transform:scale(1.5);
-}
-
-div.navitem.dropdown-menu ul li{
-  margin:0;
-  padding:0;
-  width:auto;
-  overflow:visible;
-}
-div.navitem.dropdown-menu ul li a{
-  font-size:35%;
-  width:auto;
-  margin:0;
-  padding:0;
 }
 
 article h3{
