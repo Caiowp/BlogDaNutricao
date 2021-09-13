@@ -19,23 +19,14 @@ html{
   position:absolute;
 }
 
-#zinco-img{
-  margin-left:-10%;
-}
-
-#arroz-img{
-  margin-left:-25%;
-}
-
 html.bebida-alcool{
   display:block;
   position:relative;
 }
 
-/* html.no-js{
-  height:0px;
-  width:0px;
-} */
+#tabela-acucar{
+  width:30%;
+}
 
 h1.main-page-header{
   visibility:hidden;
@@ -167,12 +158,19 @@ article p{
   margin-top:0;
 }
 
+#zinco{
+  width:100%;
+  height: 100%;
+  margin-left:5%;
+}
+
+
 article img{
   align-items:center;
   /* height:100%;
   width:110%; */
-  height: 300px;
-  width: 400px;
+  height: 20%;
+  width: 10%;
   margin-right:0;
   margin-left:5%;
   margin-bottom:8%;
@@ -410,19 +408,6 @@ div.navitem.dropdown-menu:hover ul{
 
 div.navitem.dropdown-menu ul li:hover{
   transform:scale(1.5);
-}
-
-div.navitem.dropdown-menu ul li{
-  margin:0;
-  padding:0;
-  width:auto;
-  overflow:visible;
-}
-div.navitem.dropdown-menu ul li a{
-  font-size:35%;
-  width:auto;
-  margin:0;
-  padding:0;
 }
 
 article h3{
