@@ -152,6 +152,10 @@ article:hover p{
   justify-content:center;
 }
 
+div.article-description p{
+  margin-top:2%;
+}
+
 .article-description-title{
   font-size:200%;
 }
